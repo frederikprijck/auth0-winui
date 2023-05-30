@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Auth0-WinUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Auth0-WinUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
